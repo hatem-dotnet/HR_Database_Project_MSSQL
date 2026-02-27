@@ -289,6 +289,3 @@ hr-database-system/
 [hatem_dotnet](https://github.com/hatem-dotnet/HR_Database_Project_MSSQL/commits?author=hatem-dotnet)
 
 
----
-
-> 💡 **Tip:** Open `HR_ERD_Diagram.html` in your browser to view the full interactive Entity Relationship Diagram.
