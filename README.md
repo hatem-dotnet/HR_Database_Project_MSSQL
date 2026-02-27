@@ -286,8 +286,8 @@ hr-database-system/
 ---
 
 ## 👨‍💻 Author
-hatem_dotnet
-Built as a Database Systems course project — 2024
+[hatem_dotnet](https://github.com/hatem-dotnet/HR_Database_Project_MSSQL/commits?author=hatem-dotnet)
+
 
 ---
 
